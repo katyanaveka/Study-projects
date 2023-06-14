@@ -1,0 +1,5 @@
+- HW 1: Deep Cross Entropy Method
+- HW 2: Value iteration and Policy iteration
+- HW 3: DQN (Rainbow)
+- HW 4: A2C
+- HW 5: TD3
