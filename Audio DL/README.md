@@ -1,1 +1,3 @@
-
+- HW 1: Audio Classification with DeepSpeech2-like model
+- HW 2: Automatic Speech Recognition with CNN model
+- HW 3: RNN-T implementation
